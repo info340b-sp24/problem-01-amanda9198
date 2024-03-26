@@ -13,9 +13,20 @@ p {
 /* Max height for image is 400px */
 img {
     max-height: 400px;
+    display: block;
+    margin: 0 auto;
 }
 
 /* Changes the color of one line of font */
 .colored {
     color: pink;
 }
+
+.title-container, header {
+    text-align: center;
+}
+
+figure {
+    text-align: left;
+}
+

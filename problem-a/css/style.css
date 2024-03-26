@@ -1,0 +1,21 @@
+/* Page's body font size 16px */
+body {
+    font-size: 16px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Line height is 1.5x font size */
+p {
+    line-height: 1.5;
+
+}
+
+/* Max height for image is 400px */
+img {
+    max-height: 400px;
+}
+
+/* Changes the color of one line of font */
+.colored {
+    color: pink;
+}
